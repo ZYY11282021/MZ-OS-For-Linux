@@ -1,7 +1,7 @@
 import os
 import requests
 
-print("欢迎来到MZ-OS!")
+print("欢迎来到MZ-OS Linux版本!")
 print("如果你需要一些帮助，请输入“帮助”")
 
 def iput():
